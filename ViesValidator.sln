@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViesValidator", "ViesValidator\ViesValidator.csproj", "{9B39AFED-061D-48FF-A748-4139F8DEEDD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViesValidator.Test", "ViesValidator.Test\ViesValidator.Test.csproj", "{A29A34F8-93DA-414D-89EB-0B79968AE3CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B39AFED-061D-48FF-A748-4139F8DEEDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B39AFED-061D-48FF-A748-4139F8DEEDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B39AFED-061D-48FF-A748-4139F8DEEDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B39AFED-061D-48FF-A748-4139F8DEEDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29A34F8-93DA-414D-89EB-0B79968AE3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29A34F8-93DA-414D-89EB-0B79968AE3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29A34F8-93DA-414D-89EB-0B79968AE3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29A34F8-93DA-414D-89EB-0B79968AE3CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC0E3BC9-1739-40DE-BD00-000A7A0B4848}
+	EndGlobalSection
+EndGlobal
